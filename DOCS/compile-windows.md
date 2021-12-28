@@ -9,7 +9,7 @@ http://mingw-w64.sourceforge.net.
 While building a complete MinGW-w64 toolchain yourself is possible, there are a
 few build environments and scripts to help ease the process, such as MSYS2 and
 MXE. Note that MinGW environments included in Linux distributions are often
-broken, outdated and useless, and usually don't use MinGW-w64.
+broken, outdated and useless, and usually don't uses MinGW-w64.
 
 **Warning**: the original MinGW (http://www.mingw.org) is unsupported.
 
